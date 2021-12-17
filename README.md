@@ -1,7 +1,7 @@
 # Assault Cube External Trainer
 **Created to further my progress in C++ programming in a more interactive way!**
 
-:link: Check out my [Assault Cube Cheat Table](https://github.com/N3TBI0S/AssaultCubeCheatTable)
+:link: Check out my for a list of offsets [Assault Cube Cheat Table](https://github.com/N3TBI0S/AssaultCubeCheatTable)
 
 :link: Check out my profile @ [GuidedHacking.com](https://guidedhacking.com/members/n3tbi0s.274842/) 
 
