@@ -33,5 +33,6 @@
 |Aimbot / Triggerbot |:heavy_check_mark:/:x:  |
 |Teleport to Player|:heavy_check_mark:/:x:  |
 
-##### NOTE:
-##### Keybinds are being ported to NUMPAD due to my keyboard being a 60% and lacking the ability to use them.
+#### NOTE:
+#### Keybinds are being ported to NUMPAD due to my keyboard being a 60% and lacking the ability to use them.
+#### There is a good chance this cheat will be ported to an internal trainer
