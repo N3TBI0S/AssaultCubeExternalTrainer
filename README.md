@@ -1,7 +1,7 @@
 # Assault Cube External Trainer
 **Created to further my progress in C++ programming in a more interactive way!**
 
-:link: Check out my for a list of offsets [Assault Cube Cheat Table](https://github.com/N3TBI0S/AssaultCubeCheatTable)
+:link: Check out my [Assault Cube Cheat Table](https://github.com/N3TBI0S/AssaultCubeCheatTable) for a list of offsets
 
 :link: Check out my profile @ [GuidedHacking.com](https://guidedhacking.com/members/n3tbi0s.274842/) 
 
@@ -31,7 +31,7 @@
 |Player ESP |:heavy_check_mark:/:x:  |
 |Item ESP |:heavy_check_mark:/:x:  |
 |Aimbot / Triggerbot |:heavy_check_mark:/:x:  |
-
+|Teleport to Player|:heavy_check_mark:/:x:  |
 
 ##### NOTE:
 ##### Keybinds are being ported to NUMPAD due to my keyboard being a 60% and lacking the ability to use them.
